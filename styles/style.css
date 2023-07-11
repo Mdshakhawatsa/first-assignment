@@ -226,6 +226,46 @@ height: 310px;
     padding-top: 40px;
     
 }
+.register-section{
+    display: flex;
+    justify-content: center;
+
+}
+.register{
+    background: #eea9b943;
+    width: 488px;
+    height: 450px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    
+
+}
+.input-section{
+    width: 391px;
+    height: 63px; 
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    
+}
+.register-title{
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 15px;
+
+}
+.register-description{
+    color: gray;
+    padding-bottom: 10px;
+}
+
+
+
+
 
 .main-footer{
     background: rgb(39, 36, 36);
